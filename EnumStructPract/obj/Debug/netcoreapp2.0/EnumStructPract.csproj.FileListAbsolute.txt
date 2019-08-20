@@ -1,0 +1,11 @@
+c:\users\макишеве.corp\source\repos\EnumStructPract\EnumStructPract\bin\Debug\netcoreapp2.0\EnumStructPract.deps.json
+c:\users\макишеве.corp\source\repos\EnumStructPract\EnumStructPract\bin\Debug\netcoreapp2.0\EnumStructPract.runtimeconfig.json
+c:\users\макишеве.corp\source\repos\EnumStructPract\EnumStructPract\bin\Debug\netcoreapp2.0\EnumStructPract.runtimeconfig.dev.json
+c:\users\макишеве.corp\source\repos\EnumStructPract\EnumStructPract\bin\Debug\netcoreapp2.0\EnumStructPract.dll
+c:\users\макишеве.corp\source\repos\EnumStructPract\EnumStructPract\bin\Debug\netcoreapp2.0\EnumStructPract.pdb
+c:\users\макишеве.corp\source\repos\EnumStructPract\EnumStructPract\obj\Debug\netcoreapp2.0\EnumStructPract.csprojAssemblyReference.cache
+c:\users\макишеве.corp\source\repos\EnumStructPract\EnumStructPract\obj\Debug\netcoreapp2.0\EnumStructPract.csproj.CoreCompileInputs.cache
+c:\users\макишеве.corp\source\repos\EnumStructPract\EnumStructPract\obj\Debug\netcoreapp2.0\EnumStructPract.AssemblyInfoInputs.cache
+c:\users\макишеве.corp\source\repos\EnumStructPract\EnumStructPract\obj\Debug\netcoreapp2.0\EnumStructPract.AssemblyInfo.cs
+c:\users\макишеве.corp\source\repos\EnumStructPract\EnumStructPract\obj\Debug\netcoreapp2.0\EnumStructPract.dll
+c:\users\макишеве.corp\source\repos\EnumStructPract\EnumStructPract\obj\Debug\netcoreapp2.0\EnumStructPract.pdb
